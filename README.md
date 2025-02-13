@@ -95,6 +95,7 @@ public class Calculator
 dotnet test
 ```
 The test should now pass!
+
 13. Refactor the code
 First change the `Calculator` class to use an expression body
 ```csharp
@@ -171,4 +172,5 @@ public class When_calculating
 ```
 Observe the output as you change the tests and the code. Try adding tests for multiplication and division, and then implementing them. Remember the [TDD cycle](https://en.wikipedia.org/wiki/Test-driven_development):
 > <span style="color:red;">RED</span> - <span style="color:green;">GREEN</span> - REFACTOR
-1.   Have fun, and don't [divide by zero](https://en.wikipedia.org/wiki/Division_by_zero)!
+
+14.   Have fun, and don't [divide by zero](https://en.wikipedia.org/wiki/Division_by_zero)!
